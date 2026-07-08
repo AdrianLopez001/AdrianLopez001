@@ -56,8 +56,8 @@ Plataforma moderna de gestão médica integrada que simplifica a ponte entre equ
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianLopez001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLopez001&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AdrianLopez001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianLopez001&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -67,4 +67,3 @@ Plataforma moderna de gestão médica integrada que simplifica a ponte entre equ
 * **LinkedIn:** [adrian-lopes-a42699371](https://www.linkedin.com/in/adrian-lopes-a42699371)
 * **GitHub:** [AdrianLopez001](https://github.com/AdrianLopez001)
 * **Localização:** Natal, RN - Brasil 🇧🇷 (Disponível para vagas Home Office globais e nacionais)
-
