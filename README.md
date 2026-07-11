@@ -77,6 +77,19 @@ Sistema backend em Python para auditoria e controle financeiro pessoal/empresari
 
 ---
 
+## 🎓 Formação Acadêmica & Idiomas / Education & Languages
+
+**Formação / Education:**
+*   **Bacharelado em Análise e Desenvolvimento de Sistemas (ADS)** - UNINASSAU *(2026 – 2027)*
+*   **Ensino Médio Técnico em Informática** - Centro Estadual Senador Jesse Pinto Freire *(2021 – 2023)*
+
+**Idiomas / Languages:**
+*   **Português:** Nativo
+*   **Inglês:** Intermediário (Leitura técnica e documentação)
+*   **Espanhol:** Básico
+
+---
+
 ## 📊 Estatísticas do GitHub / GitHub Stats
 
 <div align="center">
