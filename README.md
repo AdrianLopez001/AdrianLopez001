@@ -9,7 +9,7 @@
 
 ## 🇧🇷 Versão em Português
 
-Desenvolvedor de Software focado na construção de sistemas robustos, escaláveis e integrados com Inteligência Artificial. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, busco alinhar rigor técnico de Engenharia de Software com soluções de valor para o negócio. Estou ativamente em busca de oportunidades como **Desenvolvedor Backend (Java/Python) ou Full-Stack**.
+Desenvolvedor de Software focado na construção de sistemas robustos, escaláveis e integrados com Inteligência Artificial. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, busco minha primeira oportunidade profissional como **Desenvolvedor Backend Júnior, Full-Stack Júnior ou Suporte Técnico**. Tenho facilidade para trabalhar em equipe, me adapto bem ao trabalho remoto e possuo rápida curva de aprendizado.
 
 ### 💻 Minhas Especialidades & Foco Técnico
 *   **Backend de Alta Performance:** APIs RESTful bem estruturadas, arquitetura de microsserviços, mensageria assíncrona e persistência relacional.
@@ -20,7 +20,7 @@ Desenvolvedor de Software focado na construção de sistemas robustos, escaláve
 
 ## 🇺🇸 English Version
 
-Software Developer focused on building robust, scalable systems integrated with Artificial Intelligence. Currently studying **Systems Analysis and Development (ADS)**, I aim to combine Software Engineering technical rigor with business value solutions. I am actively looking for opportunities as a **Backend (Java/Python) or Full-Stack Developer**.
+Software Developer focused on building robust, scalable systems integrated with Artificial Intelligence. Currently studying **Systems Analysis and Development (ADS)**, I am looking for my first professional opportunity as a **Junior Backend Developer, Junior Full-Stack Developer, or Technical Support**. I am a fast learner, highly adaptable to remote work, and a strong team player.
 
 ### 💻 Technical Focus & Specialties
 *   **High-Performance Backend:** Well-structured RESTful APIs, microservices architecture, asynchronous messaging, and relational databases.
@@ -47,7 +47,13 @@ Software Developer focused on building robust, scalable systems integrated with 
 
 ## 🚀 Projetos em Destaque / Featured Projects
 
-### ⚽ [Now or Never — MatchMind AI](https://github.com/AdrianLopez001/Now-or-Never)
+### 🛠️ CARTEC 2.0
+Plataforma ERP/CRM em produção para oficinas automotivas, rodando em VPS Linux autogerenciada.
+*   **Integração IA & Automação:** Integra agentes de IA via WhatsApp com n8n e Evolution API.
+*   **Análise Documental:** Utiliza Claude Vision API para análise de documentos/imagens.
+*   **Segurança:** Autenticação com JWT/bcrypt e proxy reverso nginx.
+
+### ⚽ [MatchMind AI (Now or Never)](https://github.com/AdrianLopez001/Now-or-Never)
 Plataforma de inteligência preditiva para partidas de futebol com geração de probabilidades calibradas e explicabilidade por SHAP values.
 *   **Backend:** Spring Boot (Java 17+) controlando a persistência (H2) e orquestrando o pipeline de ML via invocação assíncrona.
 *   **Pipeline de ML:** Python executando ensemble de modelos (`RandomForest`, `LogisticRegression`, `GradientBoosting`), engenharia de features dinâmicas a partir de classificações oficiais e geração de explicações textuais (PT-BR) baseadas nos impactos SHAP das variáveis de cada time. Inclui rate limit inteligente de 10 req/min com auto-retry.
@@ -56,16 +62,14 @@ Plataforma de inteligência preditiva para partidas de futebol com geração de 
 ### 🧠 [Corporate RAG Engine](https://github.com/AdrianLopez001/Corporate-RAG-Engine)
 [![CI](https://github.com/AdrianLopez001/Corporate-RAG-Engine/actions/workflows/ci.yml/badge.svg)](https://github.com/AdrianLopez001/Corporate-RAG-Engine/actions/workflows/ci.yml)
 Mecanismo de busca semântica empresarial utilizando técnica de Geração Aumentada por Recuperação (RAG).
-*   Desenvolvido em Java/Spring Boot com indexação e recuperação inteligente de documentos técnicos em banco de dados vetorial (`pgvector` / PostgreSQL).
-*   Utiliza Spring AI para integração flexível com embeddings de texto e modelos de linguagem OpenAI (GPT-4o-mini).
-*   *Testes automatizados integrados com mockito e carregamento de contexto mockado.*
+*   Backend de RAG de nível corporativo, construído com o stack Java de IA (Java 21, Spring Boot 3.3, Spring AI, GPT-4o-mini, PostgreSQL + pgvector com indexação HNSW, Docker, Apache Tika).
+*   Pipeline de CI configurado com GitHub Actions e testes automatizados com Mockito e carregamento de contexto mockado.
 
 ### 🏥 [CareSync](https://github.com/AdrianLopez001/CareSync)
 [![CI](https://github.com/AdrianLopez001/CareSync/actions/workflows/ci.yml/badge.svg)](https://github.com/AdrianLopez001/CareSync/actions/workflows/ci.yml)
 Plataforma moderna de gestão médica integrada que simplifica a ponte entre equipes clínicas e pacientes através de microsserviços orientados a eventos.
-*   **Arquitetura:** Microsserviços independentes (`appointment-service` e `notification-service`) comunicando-se assincronamente via **RabbitMQ** (Topic Exchange).
-*   **Segurança & Validação:** Persistência em base PostgreSQL com consistência transacional garantindo publicação pós-commit de transação.
-*   *Possui cobertura de testes unitários de regras de negócio (JUnit 5/Mockito) e testes de API web (MockMvc) integrados no pipeline CI.*
+*   **Arquitetura:** Sistema de agendamento e notificação de consultas construído com microsserviços independentes (`appointment-service` e `notification-service`) que se comunicam de forma assíncrona via RabbitMQ (Topic Exchange).
+*   **Persistência & Testes:** Persistência em base PostgreSQL com consistência transacional garantindo publicação pós-commit; cobertura de testes unitários (JUnit 5/Mockito) e testes de API web (MockMvc) integrados no pipeline CI.
 
 ### 💰 [FINTRACK-SYSTEM](https://github.com/AdrianLopez001/FINTRACK-SYSTEM)
 Sistema backend em Python para auditoria e controle financeiro pessoal/empresarial.
