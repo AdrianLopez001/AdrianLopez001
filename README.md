@@ -47,12 +47,6 @@ Software Developer focused on building robust, scalable systems integrated with 
 
 ## 🚀 Projetos em Destaque / Featured Projects
 
-### 🛠️ CARTEC 2.0
-Plataforma ERP/CRM em produção para oficinas automotivas, rodando em VPS Linux autogerenciada.
-*   **Integração IA & Automação:** Integra agentes de IA via WhatsApp com n8n e Evolution API.
-*   **Análise Documental:** Utiliza Claude Vision API para análise de documentos/imagens.
-*   **Segurança:** Autenticação com JWT/bcrypt e proxy reverso nginx.
-
 ### ⚽ [MatchMind AI (Now or Never)](https://github.com/AdrianLopez001/Now-or-Never)
 Plataforma de inteligência preditiva para partidas de futebol com geração de probabilidades calibradas e explicabilidade por SHAP values.
 *   **Backend:** Spring Boot (Java 17+) controlando a persistência (H2) e orquestrando o pipeline de ML via invocação assíncrona.
@@ -64,16 +58,6 @@ Plataforma de inteligência preditiva para partidas de futebol com geração de 
 Mecanismo de busca semântica empresarial utilizando técnica de Geração Aumentada por Recuperação (RAG).
 *   Backend de RAG de nível corporativo, construído com o stack Java de IA (Java 21, Spring Boot 3.3, Spring AI, GPT-4o-mini, PostgreSQL + pgvector com indexação HNSW, Docker, Apache Tika).
 *   Pipeline de CI configurado com GitHub Actions e testes automatizados com Mockito e carregamento de contexto mockado.
-
-### 🏥 [CareSync](https://github.com/AdrianLopez001/CareSync)
-[![CI](https://github.com/AdrianLopez001/CareSync/actions/workflows/ci.yml/badge.svg)](https://github.com/AdrianLopez001/CareSync/actions/workflows/ci.yml)
-Plataforma moderna de gestão médica integrada que simplifica a ponte entre equipes clínicas e pacientes através de microsserviços orientados a eventos.
-*   **Arquitetura:** Sistema de agendamento e notificação de consultas construído com microsserviços independentes (`appointment-service` e `notification-service`) que se comunicam de forma assíncrona via RabbitMQ (Topic Exchange).
-*   **Persistência & Testes:** Persistência em base PostgreSQL com consistência transacional garantindo publicação pós-commit; cobertura de testes unitários (JUnit 5/Mockito) e testes de API web (MockMvc) integrados no pipeline CI.
-
-### 💰 [FINTRACK-SYSTEM](https://github.com/AdrianLopez001/FINTRACK-SYSTEM)
-Sistema backend em Python para auditoria e controle financeiro pessoal/empresarial.
-*   Foco em integridade de dados financeiros, processamento de extratos e categorização inteligente de transações para geração de relatórios fiscais e orçamentários.
 
 ---
 
@@ -87,15 +71,6 @@ Sistema backend em Python para auditoria e controle financeiro pessoal/empresari
 *   **Português:** Nativo
 *   **Inglês:** Intermediário (Leitura técnica e documentação)
 *   **Espanhol:** Básico
-
----
-
-## 📊 Estatísticas do GitHub / GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AdrianLopez001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianLopez001&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
