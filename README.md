@@ -9,23 +9,21 @@
 
 ## 🇧🇷 Versão em Português
 
-Desenvolvedor de Software focado na construção de sistemas robustos, escaláveis e integrados com Inteligência Artificial. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, busco minha primeira oportunidade profissional como **Desenvolvedor Backend Júnior, Full-Stack Júnior ou Suporte Técnico**. Tenho facilidade para trabalhar em equipe, me adapto bem ao trabalho remoto e possuo rápida curva de aprendizado.
+Desenvolvedor de Software focado na construção de sistemas robustos, escaláveis e integrados com Inteligência Artificial. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, busco minha primeira oportunidade profissional como **Desenvolvedor Backend**. Tenho facilidade para trabalhar em equipe, me adapto bem ao trabalho remoto e possuo rápida curva de aprendizado.
 
 ### 💻 Minhas Especialidades & Foco Técnico
 *   **Backend de Alta Performance:** APIs RESTful bem estruturadas, arquitetura de microsserviços, mensageria assíncrona e persistência relacional.
 *   **Inteligência Artificial e RAG:** Pipelines de preparação de dados, busca semântica corporativa (RAG), embeddings e explicabilidade de modelos de Machine Learning (SHAP values).
-*   **Frontend Moderno:** Dashboards interativos e responsivos com foco em performance e boas práticas de UX.
 
 ---
 
 ## 🇺🇸 English Version
 
-Software Developer focused on building robust, scalable systems integrated with Artificial Intelligence. Currently studying **Systems Analysis and Development (ADS)**, I am looking for my first professional opportunity as a **Junior Backend Developer, Junior Full-Stack Developer, or Technical Support**. I am a fast learner, highly adaptable to remote work, and a strong team player.
+Software Developer focused on building robust, scalable systems integrated with Artificial Intelligence. Currently studying **Systems Analysis and Development (ADS)**, I am looking for my first professional opportunity as a **Backend Developer**. I am a fast learner, highly adaptable to remote work, and a strong team player.
 
 ### 💻 Technical Focus & Specialties
 *   **High-Performance Backend:** Well-structured RESTful APIs, microservices architecture, asynchronous messaging, and relational databases.
 *   **AI & RAG:** Data prep pipelines, corporate semantic search (RAG), text embeddings, and ML model explainability (SHAP values).
-*   **Modern Frontend:** Interactive and responsive dashboards focusing on performance and UX best practices.
 
 ---
 
